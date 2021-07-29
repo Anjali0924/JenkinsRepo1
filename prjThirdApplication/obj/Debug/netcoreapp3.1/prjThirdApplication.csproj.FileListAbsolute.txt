@@ -1,0 +1,13 @@
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\bin\Debug\netcoreapp3.1\prjThirdApplication.exe
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\bin\Debug\netcoreapp3.1\prjThirdApplication.deps.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\bin\Debug\netcoreapp3.1\prjThirdApplication.runtimeconfig.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\bin\Debug\netcoreapp3.1\prjThirdApplication.runtimeconfig.dev.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\bin\Debug\netcoreapp3.1\prjThirdApplication.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\bin\Debug\netcoreapp3.1\prjThirdApplication.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.csproj.AssemblyReference.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.AssemblyInfoInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.AssemblyInfo.cs
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.csproj.CoreCompileInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\prjThirdApplication\obj\Debug\netcoreapp3.1\prjThirdApplication.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.exe
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.deps.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.runtimeconfig.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.runtimeconfig.dev.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.csproj.AssemblyReference.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.AssemblyInfoInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.AssemblyInfo.cs
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.csproj.CoreCompileInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 3\prjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.genruntimeconfig.cache
